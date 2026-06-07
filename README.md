@@ -73,10 +73,10 @@ ConsultasPostgres/
 ├── 📄 README.md                       ← Este archivo
 │
 ├── 📂 sql/
-│   └── consultas_tourism_v2.sql       ← Las 20 consultas documentadas
+│   └── ConsultasAvanzadas_Postgres.sql       ← Las 20 consultas documentadas
 │
 └── 📂 docs/
-    └── consultas_tourism_v2.docx      ← Guía de consultas formateada (Word)
+    └── SQL_Avanzadas.pf      ← Guía de consultas formateada (pf)
 ```
 
 ---
